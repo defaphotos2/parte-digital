@@ -1,0 +1,13 @@
+@import '../components/Header/header.scss';
+@import '../components/Body/body.scss';
+@import '../components/Footer/footer.scss';
+
+body {
+    margin: 0;
+    height: 2698px;
+}
+
+.container {
+    --animate-duration: 2s;
+
+}
