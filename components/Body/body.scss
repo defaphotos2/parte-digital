@@ -1,8 +1,12 @@
 .body {
 
+    @media (max-width: $movileMaxWidth) {
+        margin: 0 30px;
+    }
+
     &__info {
         height: 350px;
-        margin-top: 40px;
+        margin-top: 120px;
     }
 
     &__title {
@@ -37,7 +41,7 @@
     }
 
     &__gifts {
-        margin-top: 50px;
+        margin-top: 170px;
     }
 
     &__gift-icon-container {
@@ -92,7 +96,7 @@
     }
 
     &__location {
-        margin-top: 50px;
+        margin-top: 170px;
         margin-bottom: 50px;
         display: flex;
         justify-content: center;

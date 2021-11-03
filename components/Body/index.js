@@ -1,10 +1,9 @@
 import React from 'react';
-import ReactCountDown from 'react-countdown'
 
 const Body = () => {
     return (
         <div className="body">
-            <div data-aos="fade-up" className="body__info">
+            <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="body__info">
                 <div className="body__title">
                     Queridos Familiares y Amigos
                 </div>
@@ -19,7 +18,7 @@ const Body = () => {
             </div>
 
 
-            <div data-aos="fade-up" className="body__gifts">
+            <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="body__gifts">
                 <div className="body__title">
                     ¿Quieres hacer un regalo?
                 </div>
@@ -60,7 +59,7 @@ const Body = () => {
                 </div>
             </div>
 
-            <div data-aos="fade-up" className="body__location">
+            <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="body__location">
                 <div className="body__title">
                     Como Llegar
                 </div>

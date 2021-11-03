@@ -1,6 +1,8 @@
 import Header from '../components/Header';
 import Body from '../components/Body';
-import Footer from '../components/Footer'
+import Footer from '../components/Footer';
+import Form from '../components/Form'
+
 import Head from 'next/head'
 
 export default function Home() {
@@ -32,6 +34,7 @@ export default function Home() {
       <div className="container animate__animated animate__fadeIn">
         <Header />
         <Body />
+        <Form />
         <Footer />
       </div>
       <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
