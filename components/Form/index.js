@@ -18,7 +18,7 @@ const Form = () => {
     }
 
     return (
-        <div data-aos="fade-up" data-aos-anchor-placement="top-center" className="form">
+        <div data-aos="fade-up" className="form">
             <div className="form__title">
                 Déjanos Tu Confirmación
             </div>
