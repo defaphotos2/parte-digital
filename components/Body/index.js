@@ -26,7 +26,10 @@ const Body = () => {
                     <i className="body__thanks-icon fas fa-gift"></i>
                 </div>
                 <div className="body__gifts-text">
-                    Puedes darnos un pequeño regalo monetario realizando un aporte en nuestra cuenta corriente, te lo agradeceremos mucho!!!
+                    Nuestro mejor regalo es celebrar junto a ustedes nuestra Boda, pero si deseas darnos un obsequio este puede ser en efectivo.
+                </div>
+                <div className="body__gifts-text">
+                    ¡Aquí esta  nuestro número de cuenta!
                 </div>
                 <div className="body__bank">
                     <div className="body__bank-field">
