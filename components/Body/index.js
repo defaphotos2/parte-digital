@@ -12,7 +12,7 @@ const Body = () => {
                 </div>
                 <div className="body__thanks">
                     Estamos muy contentos de invitarlos a nuestra ceremonia de matrimonio que se 
-                    realizara el día 13 de febrero del 2022 en el centro de eventos La Casita de Cuentos ubicada 
+                    realizara el día 13 de febrero del 2022 a partir de las 12:00 hrs en el centro de eventos La Casita de Cuentos ubicada 
                     en la comuna de Buin, en donde podrán disfrutar de la celebración llena de felicidad junto con nosotros.
                 </div>
             </div>
